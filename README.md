@@ -25,7 +25,7 @@ This includes:
 
 ## Scripts
 The scripts used to run these analyses can be found:
-- [Preprocessing, Mapping and Variant Calling](https://github.com/kara-ry/H2S_Capture_Pmex/tree/main/Variant_Calliing)
+- [Preprocessing, Mapping and Variant Calling](https://github.com/kara-ry/H2S_Capture_Pmex/tree/main/Variant_Calling)
 - [VCF filtering Scripts]()
 - [PCA, Admixture, Treemix, IqTree]()
 - [Population Genetics Statistics]()
