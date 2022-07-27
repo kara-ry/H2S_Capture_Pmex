@@ -1,5 +1,4 @@
 #!/bin/bash
-
 #SBATCH --partition=kamiak
 #SBATCH --job-name=readgroup
 #SBATCH --time=480
@@ -20,9 +19,6 @@ finalID=$(grep -w "$readnumber" /data/kelley/projects/pmex/capture/sampleIDtoSit
 
 finalSite=$(grep -w "$readnumber" /data/kelley/projects/pmex/capture/sampleIDtoSite.txt | awk 'BEGIN {FS="\t"}; {print $3}')
 finalWell=$(grep -w "$readnumber" /data/kelley/projects/pmex/capture/sampleIDtoSite.txt | awk 'BEGIN {FS="\t"}; {print $4}')
-
-
-
 
 java -jar /data/kelley/projects/programs/picard-tools-1.141/picard.jar AddOrReplaceReadGroups \
 I=${filename} \
