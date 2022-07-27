@@ -1,1 +1,1 @@
-# H2S_Capture_Pmex
+# H2S Capture *P. mexicana*
