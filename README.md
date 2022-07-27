@@ -2,7 +2,8 @@
 
 ## Raw data 
 
-Summarized fastqc report can be found in [this multiqc report](https://github.com/kara-ry/H2S_Capture_Pmex/blob/main/multiqc_report.html)
+Summarized fastqc report can be found in [this multiqc report](https://github.com/kara-ry/H2S_Capture_Pmex/blob/main/multiqc_report.html) \
+Raw data can be found on NCBI at accession number __________________
 
 ## Variant Call files
 All VCFs used for analyses found [here](https://github.com/kara-ry/H2S_Capture_Pmex/tree/main/VCFs)
