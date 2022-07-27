@@ -1,1 +1,1 @@
-# H2S Capture *P. mexicana*
+# H<sub>2</sub>S Capture *P. mexicana*
