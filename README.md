@@ -24,4 +24,18 @@ This includes:
   -  [Reference]()
 
 ## Scripts
+The scripts used to run these analyses can be found:
+- [Preprocessing, Mapping and Variant Calling]()
+- [VCF filtering Scripts]()
+- [PCA, Admixture, Treemix, IqTree]()
+- [Population Genetics Statistics]()
+- [Haplotype Network]()
+
+
+
+
+
+
+
+
 
