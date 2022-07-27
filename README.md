@@ -1,4 +1,5 @@
 # H<sub>2</sub>S Capture *P. mexicana*
+This repository is for a manuscripit that can be found here 
 
 ## Raw data 
 
