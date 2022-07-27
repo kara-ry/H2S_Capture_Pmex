@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#SBATCH --partition=kamiak
+#SBATCH --nodes=1
+#SBATCH --job-name=bwaindex
+#SBATCH --time=480
+
+bwa index -a bwtsw /data/kelley/projects/pmex/capture/refGenome/MexicanaGenome.fna
