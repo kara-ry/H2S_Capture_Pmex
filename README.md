@@ -1,8 +1,7 @@
 # H<sub>2</sub>S Capture *P. mexicana*
-This repository is for a manuscripit that can be found here 
+This repository is for a manuscripit title "Selection on standing genetic variation mediates convergent evolution in extremophile fish."
 
 ## Raw data 
-
 Summarized fastqc report can be found in [this multiqc report](https://github.com/kara-ry/H2S_Capture_Pmex/blob/main/multiqc_report.html) \
 Raw data can be found on NCBI at BioProject PRJNA647126
 
