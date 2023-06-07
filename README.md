@@ -17,10 +17,6 @@ This includes:
   - [Sulfide](https://github.com/kara-ry/H2S_Capture_Pmex/blob/main/VCFs/sulfide.target.capture.bed.merged.geno.m90.biallelic.SNPs.Q30.DP10.maf01.nVS44.LD08.vcf.gz)
   - [OxPhos](https://github.com/kara-ry/H2S_Capture_Pmex/blob/main/VCFs/oxphos.target.capture.bed.merged.geno.m90.biallelic.SNPs.Q30.DP10.maf01.nVS44.LD08.vcf.gz)
   - [Reference](https://github.com/kara-ry/H2S_Capture_Pmex/blob/main/VCFs/reference.capture.bed.merged.geno.m90.biallelic.SNPs.Q30.DP10.maf01.nVS44.LD08.vcf.gz)
-- All sites VCF of:
-  -  [Sulfide]()
-  -  [OxPhos]()
-  -  [Reference]()
 
 ## Scripts
 The scripts used to run these analyses can be found:
