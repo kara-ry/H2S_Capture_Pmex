@@ -23,7 +23,7 @@ The scripts used to run these analyses can be found:
 - [Preprocessing, Mapping and Variant Calling](https://github.com/kara-ry/H2S_Capture_Pmex/tree/main/Variant_Calling)
 - [VCF filtering Scripts](https://github.com/kara-ry/H2S_Capture_Pmex/tree/main/VCF_filtering)
 - [PCA, Admixture, Treemix, IqTree & population genetics stats](https://github.com/kara-ry/H2S_Capture_Pmex/tree/main/analyses)
-- [Haplotype Network](https://github.com/kara-ry/H2S_Capture_Pmex/blob/main/analyses/Haplotype_Network.Rmd)
+- [Haplotype Network](https://github.com/kara-ry/H2S_Capture_Pmex/tree/main/haplotype_network)
 
 
 
