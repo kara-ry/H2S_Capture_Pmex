@@ -1,0 +1,200 @@
+0	1	MT13-01	Rosita	A1	Rosita1
+24	2	MT13-01	Rosita	B1	Rosita2
+48	3	MT13-01	Rosita	C1	Rosita3
+72	4	MT13-01	Rosita	D1	Rosita4
+96	6	MT13-01	Rosita	E1	Rosita6
+120	8	MT13-01	Rosita	F1	Rosita8
+144	10r	MT13-01	Rosita	G1	Rosita10r
+168	11	MT13-01	Rosita	H1	Rosita11
+2	12	MT13-01	Rosita	A2	Rosita12
+26	13	MT13-01	Rosita	B2	Rosita13
+50	14r	MT13-01	Rosita	C2	Rosita14r
+74	18	MT13-01	Rosita	D2	Rosita18
+98	21	MT13-01	Rosita	E2	Rosita21
+122	22	MT13-01	Rosita	F2	Rosita22
+146	23r	MT13-01	Rosita	G2	Rosita23r
+170	24	MT13-01	Rosita	H2	Rosita24
+4	26	MT13-01	Rosita	A3	Rosita26
+28	27r	MT13-01	Rosita	B3	Rosita27r
+52	28	MT13-01	Rosita	C3	Rosita28
+76	29	MT13-01	Rosita	D3	Rosita29
+100	31	MT13-02	Vet Station	E3	VS31
+124	32	MT13-02	Vet Station	F3	VS32
+148	33	MT13-02	Vet Station	G3	VS33
+172	36	MT13-02	Vet Station	H3	VS36
+6	37	MT13-02	Vet Station	A4	VS37
+30	39	MT13-02	Vet Station	B4	VS39
+54	40	MT13-02	Vet Station	C4	VS40
+78	41r	MT13-02	Vet Station	D4	VS41r
+102	42	MT13-02	Vet Station	E4	VS42
+126	43	MT13-02	Vet Station	F4	VS43
+150	44	MT13-02	Vet Station	G4	VS44
+174	45	MT13-02	Vet Station	H4	VS45
+8	46	MT13-02	Vet Station	A5	VS46
+32	49	MT13-02	Vet Station	B5	VS49
+56	51r	MT13-02	Vet Station	C5	VS51r
+80	54	MT13-02	Vet Station	D5	VS54
+104	55	MT13-02	Vet Station	E5	VS55
+128	56	MT13-02	Vet Station	F5	VS56
+152	57	MT13-02	Vet Station	G5	VS57
+176	60	MT13-02	Vet Station	H5	VS60
+10	61	MT13-03	Ixtapangajoya	A6	Ixta61
+34	62	MT13-03	Ixtapangajoya	B6	Ixta62
+58	63r	MT13-03	Ixtapangajoya	C6	Ixta63r
+82	64	MT13-03	Ixtapangajoya	D6	Ixta64
+106	66	MT13-03	Ixtapangajoya	E6	Ixta66
+130	67	MT13-03	Ixtapangajoya	F6	Ixta67
+154	68	MT13-03	Ixtapangajoya	G6	Ixta68
+178	69	MT13-03	Ixtapangajoya	H6	Ixta69
+12	70	MT13-03	Ixtapangajoya	A7	Ixta70
+36	72	MT13-03	Ixtapangajoya	B7	Ixta72
+60	73	MT13-03	Ixtapangajoya	C7	Ixta73
+84	74	MT13-03	Ixtapangajoya	D7	Ixta74
+108	80	MT13-03	Ixtapangajoya	E7	Ixta80
+132	82	MT13-03	Ixtapangajoya	F7	Ixta82
+156	84	MT13-03	Ixtapangajoya	G7	Ixta84
+180	86	MT13-03	Ixtapangajoya	H7	Ixta86
+14	87	MT13-03	Ixtapangajoya	A8	Ixta87
+38	88	MT13-03	Ixtapangajoya	B8	Ixta88
+62	89	MT13-03	Ixtapangajoya	C8	Ixta89
+86	90	MT13-03	Ixtapangajoya	D8	Ixta90
+110	91	MT13-04	La Gloria	E8	Gloria91
+134	92	MT13-04	La Gloria	F8	Gloria92
+158	94	MT13-04	La Gloria	G8	Gloria94
+182	95	MT13-04	La Gloria	H8	Gloria95
+16	96	MT13-04	La Gloria	A9	Gloria96
+40	97	MT13-04	La Gloria	B9	Gloria97
+64	98	MT13-04	La Gloria	C9	Gloria98
+88	99	MT13-04	La Gloria	D9	Gloria99
+112	100	MT13-04	La Gloria	E9	Gloria100
+136	104	MT13-04	La Gloria	F9	Gloria104
+160	105	MT13-04	La Gloria	G9	Gloria105
+184	106	MT13-04	La Gloria	H9	Gloria106
+18	107	MT13-04	La Gloria	A10	Gloria107
+42	108	MT13-04	La Gloria	B10	Gloria108
+66	109	MT13-04	La Gloria	C10	Gloria109
+90	110	MT13-04	La Gloria	D10	Gloria110
+114	112	MT13-04	La Gloria	E10	Gloria112
+138	114	MT13-04	La Gloria	F10	Gloria114
+162	116	MT13-04	La Gloria	G10	Gloria116
+186	120	MT13-04	La Gloria	H10	Gloria120
+20	121	MT13-05	Banos (hotel)	A11	Banos121
+44	122	MT13-05	Banos (hotel)	B11	Banos122
+68	123	MT13-05	Banos (hotel)	C11	Banos123
+92	126	MT13-05	Banos (hotel)	D11	Banos126
+116	129	MT13-05	Banos (hotel)	E11	Banos129
+140	130	MT13-05	Banos (hotel)	F11	Banos130
+164	131	MT13-05	Banos (hotel)	G11	Banos131
+188	132	MT13-05	Banos (hotel)	H11	Banos132
+22	133	MT13-05	Banos (hotel)	A12	Banos133
+46	134	MT13-05	Banos (hotel)	B12	Banos134
+70	136	MT13-05	Banos (hotel)	C12	Banos136
+94	137	MT13-05	Banos (hotel)	D12	Banos137
+118	138	MT13-05	Banos (hotel)	E12	Banos138
+142	139	MT13-05	Banos (hotel)	F12	Banos139
+166	140	MT13-05	Banos (hotel)	G12	Banos140
+190	141	MT13-05	Banos (hotel)	H12	Banos141
+192	142	MT13-05	Banos (hotel)	A1	Banos142
+216	143	MT13-05	Banos (hotel)	B1	Banos143
+240	146	MT13-05	Banos (hotel)	C1	Banos146
+264	147	MT13-05	Banos (hotel)	D1	Banos147
+288	151	MT13-08	La Lluvia (small spring)	E1	Lluvia151
+312	152	MT13-08	La Lluvia (small spring)	F1	Lluvia152
+336	153	MT13-08	La Lluvia (small spring)	G1	Lluvia153
+360	155	MT13-08	La Lluvia (small spring)	H1	Lluvia155
+194	156	MT13-08	La Lluvia (small spring)	A2	Lluvia156
+218	159	MT13-08	La Lluvia (small spring)	B2	Lluvia159
+242	160	MT13-08	La Lluvia (small spring)	C2	Lluvia160
+266	163	MT13-08	La Lluvia (small spring)	D2	Lluvia163
+290	164	MT13-08	La Lluvia (small spring)	E2	Lluvia164
+314	165	MT13-08	La Lluvia (small spring)	F2	Lluvia165
+338	166	MT13-08	La Lluvia (small spring)	G2	Lluvia166
+362	167	MT13-08	La Lluvia (small spring)	H2	Lluvia167
+196	168	MT13-08	La Lluvia (small spring)	A3	Lluvia168
+220	169	MT13-08	La Lluvia (small spring)	B3	Lluvia169
+244	172	MT13-08	La Lluvia (small spring)	C3	Lluvia172
+268	174	MT13-08	La Lluvia (small spring)	D3	Lluvia174
+292	176	MT13-08	La Lluvia (small spring)	E3	Lluvia176
+316	177	MT13-08	La Lluvia (small spring)	F3	Lluvia177
+340	178	MT13-08	La Lluvia (small spring)	G3	Lluvia178
+364	180	MT13-08	La Lluvia (small spring)	H3	Lluvia180
+198	184	MT13-09	Puyacatengo (Vincente Guerrero)	A4	VG184
+222	185	MT13-09	Puyacatengo (Vincente Guerrero)	B4	VG185
+246	186	MT13-09	Puyacatengo (Vincente Guerrero)	C4	VG186
+270	191	MT13-09	Puyacatengo (Vincente Guerrero)	D4	VG191
+294	192	MT13-09	Puyacatengo (Vincente Guerrero)	E4	VG192
+318	193	MT13-09	Puyacatengo (Vincente Guerrero)	F4	VG193
+342	194r	MT13-09	Puyacatengo (Vincente Guerrero)	G4	VG194r
+366	195	MT13-09	Puyacatengo (Vincente Guerrero)	H4	VG195
+200	196	MT13-09	Puyacatengo (Vincente Guerrero)	A5	VG196
+224	197	MT13-09	Puyacatengo (Vincente Guerrero)	B5	VG197
+248	200	MT13-09	Puyacatengo (Vincente Guerrero)	C5	VG200
+272	202	MT13-09	Puyacatengo (Vincente Guerrero)	D5	VG202
+296	203	MT13-09	Puyacatengo (Vincente Guerrero)	E5	VG203
+320	204	MT13-09	Puyacatengo (Vincente Guerrero)	F5	VG204
+344	205	MT13-09	Puyacatengo (Vincente Guerrero)	G5	VG205
+368	206r	MT13-09	Puyacatengo (Vincente Guerrero)	H5	VG206r
+202	207	MT13-09	Puyacatengo (Vincente Guerrero)	A6	VG207
+226	208	MT13-09	Puyacatengo (Vincente Guerrero)	B6	VG208
+250	209	MT13-09	Puyacatengo (Vincente Guerrero)	C6	VG209
+274	210	MT13-09	Puyacatengo (Vincente Guerrero)	D6	VG210
+298	211	MT13-10	Bonita	E6	Bonita211
+322	212	MT13-10	Bonita	F6	Bonita212
+346	213	MT13-10	Bonita	G6	Bonita213
+370	215	MT13-10	Bonita	H6	Bonita215
+204	218	MT13-10	Bonita	A7	Bonita218
+228	220	MT13-10	Bonita	B7	Bonita220
+252	221r	MT13-10	Bonita	C7	Bonita221r
+276	223	MT13-10	Bonita	D7	Bonita223
+300	228	MT13-10	Bonita	E7	Bonita228
+324	229	MT13-10	Bonita	F7	Bonita229
+348	230r	MT13-10	Bonita	G7	Bonita230r
+372	231r	MT13-10	Bonita	H7	Bonita231r
+206	232	MT13-10	Bonita	A8	Bonita232
+230	233	MT13-10	Bonita	B8	Bonita233
+254	234r	MT13-10	Bonita	C8	Bonita234r
+278	235	MT13-10	Bonita	D8	Bonita235
+302	236r	MT13-10	Bonita	E8	Bonita236r
+326	237	MT13-10	Bonita	F8	Bonita237
+350	238	MT13-10	Bonita	G8	Bonita238
+374	239	MT13-10	Bonita	H8	Bonita239
+208	241	MT13-11	La Esperanza (big spring)	A9	Esperanza241
+232	242	MT13-11	La Esperanza (big spring)	B9	Esperanza242
+256	244	MT13-11	La Esperanza (big spring)	C9	Esperanza244
+280	245	MT13-11	La Esperanza (big spring)	D9	Esperanza245
+304	247	MT13-11	La Esperanza (big spring)	E9	Esperanza247
+328	248	MT13-11	La Esperanza (big spring)	F9	Esperanza248
+352	250	MT13-11	La Esperanza (big spring)	G9	Esperanza250
+376	251	MT13-11	La Esperanza (big spring)	H9	Esperanza251
+210	255	MT13-11	La Esperanza (big spring)	A10	Esperanza255
+234	257	MT13-11	La Esperanza (big spring)	B10	Esperanza257
+258	258	MT13-11	La Esperanza (big spring)	C10	Esperanza258
+282	259	MT13-11	La Esperanza (big spring)	D10	Esperanza259
+306	260	MT13-11	La Esperanza (big spring)	E10	Esperanza260
+330	262	MT13-11	La Esperanza (big spring)	F10	Esperanza262
+354	263	MT13-11	La Esperanza (big spring)	G10	Esperanza263
+378	264	MT13-11	La Esperanza (big spring)	H10	Esperanza264
+212	265	MT13-11	La Esperanza (big spring)	A11	Esperanza265
+236	266	MT13-11	La Esperanza (big spring)	B11	Esperanza266
+260	267	MT13-11	La Esperanza (big spring)	C11	Esperanza267
+284	268	MT13-11	La Esperanza (big spring)	D11	Esperanza268
+308	273	MT13-12	El Azufre I fish	E11	PSO273
+332	275	MT13-12	El Azufre I fish	F11	PSO275
+356	276	MT13-12	El Azufre I fish	G11	PSO276
+380	278	MT13-12	El Azufre I fish	H11	PSO278
+214	281	MT13-12	El Azufre I fish	A12	PSO281
+238	282	MT13-12	El Azufre I fish	B12	PSO282
+262	283	MT13-12	El Azufre I fish	C12	PSO283
+286	284	MT13-12	El Azufre I fish	D12	PSO284
+310	285	MT13-12	El Azufre I fish	E12	PSO285
+334	287	MT13-12	El Azufre I fish	F12	PSO287
+358	288	MT13-12	El Azufre I fish	G12	PSO288
+382	290	MT13-12	El Azufre I fish	H12	PSO290
+384	291	MT13-12	El Azufre I fish	A1	PSO291
+386	292	MT13-12	El Azufre I fish	B1	PSO292
+388	293	MT13-12	El Azufre I fish	C1	PSO293
+390	295r	MT13-12	El Azufre I fish	D1	PSO295r
+392	296	MT13-12	El Azufre I fish	E1	PSO296
+394	297	MT13-12	El Azufre I fish	F1	PSO297
+396	298	MT13-12	El Azufre I fish	G1	PSO298
+398	299	MT13-12	El Azufre I fish	H1	PSO299
